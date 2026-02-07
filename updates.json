@@ -1,0 +1,9 @@
+{
+  "win": {
+    "version": "ef965e9f551d560593ea6f705643ec020624de6b5cf79723faaff2b0f994a893",
+    "pretty_version": "Demo-1.4",
+    "renpy_version": "8.5.2.26010301",
+    "rpu_url": "rpu/win.files.rpu",
+    "rpu_digest": "6b51fbf4aa12e77439476fbb4715810b6815181484b5970854183bee593312b9"
+  }
+}
